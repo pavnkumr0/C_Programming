@@ -11,7 +11,7 @@ int main(){
     if(c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u'){
         printf("Entered Character is a Vowel");
     }
-    else printf("Entered Char is a consonant");// 
+    else printf("Entered Char is a consonant");
 
     return 0;
 }
